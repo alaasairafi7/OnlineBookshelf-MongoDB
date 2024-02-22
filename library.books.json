@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f5d"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0eb"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039c8"
+  },
+  "title": "Harry Potter and the Half-blood Prince",
+  "ISBN": "8349769193",
+  "genre": "Fantasy",
+  "type": "Novel",
+  "publicationYear": 2005,
+  "price": 65.5,
+  "condition": "New"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f5e"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0ed"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039cd"
+  },
+  "title": "Little Prince",
+  "ISBN": "4628147223",
+  "genre": "Drama",
+  "type": "Novel",
+  "publicationYear": 2017,
+  "price": 45,
+  "condition": "New"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f63"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0f1"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039cf"
+  },
+  "title": "The Sun is Also a Star",
+  "ISBN": "1347959023",
+  "genre": "Drama",
+  "type": "Novel",
+  "publicationYear": 2009,
+  "price": 50,
+  "condition": "New"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f64"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0f2"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039c9"
+  },
+  "title": "Wonder",
+  "ISBN": "2534958944",
+  "genre": "Drama",
+  "type": "Real-story",
+  "publicationYear": 2014,
+  "price": 26.5,
+  "condition": "Used"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f66"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0f4"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039c9"
+  },
+  "title": "Cinder",
+  "ISBN": "8985094320",
+  "genre": "Fantasy",
+  "type": "Novel",
+  "publicationYear": 2010,
+  "price": 70,
+  "condition": "New"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f5f"
+  },
+  "authorID": {
+    "$oid": "65c2661fbbc28e4257ee28e0"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039ce"
+  },
+  "title": "All Bright Places",
+  "ISBN": "849898174",
+  "genre": "Drama",
+  "type": "Novel",
+  "publicationYear": 2019,
+  "price": 40,
+  "condition": "Used"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f60"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0ee"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039c9"
+  },
+  "title": "Holding Up the Universe",
+  "ISBN": "748297598",
+  "genre": "Action",
+  "type": "Novel",
+  "publicationYear": 2009,
+  "price": 39.5,
+  "condition": "Used"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f61"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0ef"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039cc"
+  },
+  "title": "Harry Potter and the Philosopher's Stone",
+  "ISBN": "25345354",
+  "genre": "Fantasy",
+  "type": "Novel",
+  "publicationYear": 2000,
+  "price": 70,
+  "condition": "New"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f65"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0f3"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039cc"
+  },
+  "title": "Oona Out of Order",
+  "ISBN": "14389942423",
+  "genre": "Sci-Fic",
+  "type": "Novel",
+  "publicationYear": 2017,
+  "price": 45,
+  "condition": "New"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f67"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0f4"
+  },
+  "publisherID": {
+    "$oid": "65c2661fbbc28e4257ee28e2"
+  },
+  "title": "The Outlanders",
+  "ISBN": "87539875893",
+  "genre": "History",
+  "type": "History",
+  "publicationYear": 2018,
+  "price": 105.5,
+  "condition": "New"
+},
+{
+  "_id": {
+    "$oid": "65bd9c22d5474b58fa3f6f62"
+  },
+  "authorID": {
+    "$oid": "65c271ecbbc28e4257f4f0f0"
+  },
+  "publisherID": {
+    "$oid": "65c269bbbbc28e4257f039ce"
+  },
+  "title": "Ringer",
+  "ISBN": "821313193",
+  "genre": "Sci-Fic",
+  "type": "Novel",
+  "publicationYear": 2018,
+  "price": 30,
+  "condition": "New"
+}]

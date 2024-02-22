@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65c24d0a8f23b8c24f707ddb"
+  },
+  "firstName": "Taif",
+  "lastName": "Alahmadi",
+  "streetNumber": "23",
+  "streetName": "Eias bin ous",
+  "postalCode": "8084",
+  "country": "saudi arabia",
+  "phoneNumber": "0560754228"
+},
+{
+  "_id": {
+    "$oid": "65c24d878f23b8c24f707ddc"
+  },
+  "firstName": "Lina",
+  "lastName": "Alrefi",
+  "streetNumber": "55",
+  "streetName": "Alhamra",
+  "postalCode": "4356",
+  "country": "kuwait",
+  "phoneNumber": "0568638542"
+},
+{
+  "_id": {
+    "$oid": "65c24d938f23b8c24f707ddd"
+  },
+  "firstName": "Alaa",
+  "lastName": "Alsairafi",
+  "streetNumber": "79",
+  "streetName": "Alfaiha",
+  "postalCode": "5467",
+  "country": "United arab emairates",
+  "phoneNumber": "0546319452"
+},
+{
+  "_id": {
+    "$oid": "65c24d9f8f23b8c24f707dde"
+  },
+  "firstName": "Lama",
+  "lastName": "Bugis",
+  "streetNumber": "56",
+  "streetName": "king fahad",
+  "postalCode": "6234",
+  "country": "Qatar",
+  "phoneNumber": "0537894321"
+},
+{
+  "_id": {
+    "$oid": "65c24da48f23b8c24f707ddf"
+  },
+  "firstName": "Ghada",
+  "lastName": "Alsharif",
+  "streetNumber": "45",
+  "streetName": "olaya",
+  "postalCode": "8723",
+  "country": "saudi arabia",
+  "phoneNumber": "0545529873"
+}]

@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "65c2678a37f8f026923dc4a6"
+  },
+  "orderDate": {
+    "$date": "2024-01-21T00:00:00.000Z"
+  },
+  "shipping": "express",
+  "total": 40,
+  "customerId": {
+    "$oid": "65c26c7d37f8f026923dc4b5"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c2692d37f8f026923dc4ab"
+  },
+  "orderDate": {
+    "$date": "2024-01-20T00:00:00.000Z"
+  },
+  "shipping": "express",
+  "total": 150,
+  "customerId": {
+    "$oid": "65c24d878f23b8c24f707ddc"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c2696837f8f026923dc4ac"
+  },
+  "orderDate": {
+    "$date": "2024-01-19T00:00:00.000Z"
+  },
+  "shipping": "standard",
+  "total": 300,
+  "customerId": {
+    "$oid": "65c24d938f23b8c24f707ddd"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c269a537f8f026923dc4ad"
+  },
+  "orderDate": {
+    "$date": "2024-01-20T00:00:00.000Z"
+  },
+  "shipping": "express",
+  "total": 550,
+  "customerId": {
+    "$oid": "65c24d9f8f23b8c24f707dde"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c269d737f8f026923dc4ae"
+  },
+  "shipping": "standard",
+  "total": 200,
+  "customerId": {
+    "$oid": "65c24d878f23b8c24f707ddc"
+  },
+  "orderDate": {
+    "$date": "2024-01-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c26a3637f8f026923dc4af"
+  },
+  "orderDate": {
+    "$date": "2024-01-15T00:00:00.000Z"
+  },
+  "shipping": "standard",
+  "total": 250,
+  "customerId": {
+    "$oid": "65c24da48f23b8c24f707ddf"
+  }
+}]

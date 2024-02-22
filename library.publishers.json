@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "65c269bbbbc28e4257f039cc"
+  },
+  "name": "Simon And Schuster",
+  "country": "United Kingdom"
+},
+{
+  "_id": {
+    "$oid": "65c269bbbbc28e4257f039c9"
+  },
+  "name": "Wiley",
+  "country": "Australia"
+},
+{
+  "_id": {
+    "$oid": "65c269bbbbc28e4257f039cf"
+  },
+  "name": "Al khaleej",
+  "country": "United Arab Emirates"
+},
+{
+  "_id": {
+    "$oid": "65c269bbbbc28e4257f039ce"
+  },
+  "name": "Dar Al Maarifah",
+  "country": "Saudi Arabia"
+},
+{
+  "_id": {
+    "$oid": "65c269bbbbc28e4257f039c8"
+  },
+  "name": "HarperCollins",
+  "country": "United States"
+},
+{
+  "_id": {
+    "$oid": "65c269bbbbc28e4257f039cd"
+  },
+  "name": "Bibliotheca Alexandrina",
+  "country": "Egypt"
+},
+{
+  "_id": {
+    "$oid": "65c269bbbbc28e4257f039ca"
+  },
+  "name": "Macmillan Publishers",
+  "country": "Jordan"
+},
+{
+  "_id": {
+    "$oid": "65c269bbbbc28e4257f039cb"
+  },
+  "name": "Pearson",
+  "country": "United States"
+}]

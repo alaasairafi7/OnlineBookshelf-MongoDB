@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "65c26b70f8b05a77533de385"
+  },
+  "stockLevelNew": 150,
+  "stockLevelUsed": 35,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f5e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c26b9ef8b05a77533de387"
+  },
+  "stockLevelNew": 160,
+  "stockLevelUsed": 30,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f5d"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c27093f8b05a77533de3a9"
+  },
+  "stockLevelNew": 80,
+  "stockLevelUsed": 40,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f5f"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c270eaf8b05a77533de3ac"
+  },
+  "stockLevelNew": 120,
+  "stockLevelUsed": 30,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f60"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c27151f8b05a77533de3af"
+  },
+  "stockLevelNew": 95,
+  "stockLevelUsed": 20,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f61"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c2722ef8b05a77533de3b5"
+  },
+  "stockLevelNew": 170,
+  "stockLevelUsed": 45,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f65"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c2722ef8b05a77533de3b2"
+  },
+  "stockLevelNew": 60,
+  "stockLevelUsed": 10,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f62"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c2722ef8b05a77533de3b3"
+  },
+  "stockLevelNew": 40,
+  "stockLevelUsed": 5,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f63"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c2722ef8b05a77533de3b4"
+  },
+  "stockLevelNew": 150,
+  "stockLevelUsed": 25,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f64"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c2722ef8b05a77533de3b6"
+  },
+  "stockLevelNew": 200,
+  "stockLevelUsed": 60,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f66"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c2732df8b05a77533de3c1"
+  },
+  "stockLevelNew": 300,
+  "stockLevelUsed": 80,
+  "bookId": {
+    "$oid": "65bd9c22d5474b58fa3f6f67"
+  }
+}]

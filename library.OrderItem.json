@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec336b"
+  },
+  "quantity": 5,
+  "price": 385
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec336e"
+  },
+  "quantity": 2,
+  "price": 80
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec3373"
+  },
+  "quantity": 7,
+  "price": 550
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec3375"
+  },
+  "quantity": 4,
+  "price": 320
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec336a"
+  },
+  "quantity": 4,
+  "price": 250
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec336c"
+  },
+  "quantity": 1,
+  "price": 45
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec336d"
+  },
+  "quantity": 3,
+  "price": 195
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec336f"
+  },
+  "quantity": 4,
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec3371"
+  },
+  "quantity": 6,
+  "price": 485
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec3372"
+  },
+  "quantity": 1,
+  "price": 95
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec3374"
+  },
+  "quantity": 2,
+  "price": 170
+},
+{
+  "_id": {
+    "$oid": "65c262c0bbc28e4257ec3370"
+  },
+  "quantity": 4,
+  "price": 150
+}]

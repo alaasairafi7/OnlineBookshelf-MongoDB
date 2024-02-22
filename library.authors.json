@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0f0"
+  },
+  "firstName": "lauren ",
+  "lastName": "Oliver",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f62"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0eb"
+  },
+  "firstName": "Joanne ",
+  "lastName": "Rowling",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f5d"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0f2"
+  },
+  "firstName": "Virginia ",
+  "lastName": "Woolf",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f64"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0ed"
+  },
+  "firstName": "Jennifer",
+  "lastName": "Niven",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f5f"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0f4"
+  },
+  "firstName": "Fyodor",
+  "lastName": "Dostoevsky",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f66"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0f1"
+  },
+  "firstName": "Mark ",
+  "lastName": "Twain",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f63"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0f3"
+  },
+  "firstName": "Ernest ",
+  "lastName": "Hemingway",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f65"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0ec"
+  },
+  "firstName": "Antoine ",
+  "lastName": "de saint-Exupery",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f5e"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0ee"
+  },
+  "firstName": "William",
+  "lastName": "Shakespeare",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f60"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c271ecbbc28e4257f4f0ef"
+  },
+  "firstName": "Jane ",
+  "lastName": "Austen",
+  "bookID": {
+    "$oid": "65bd9c22d5474b58fa3f6f61"
+  }
+}]
