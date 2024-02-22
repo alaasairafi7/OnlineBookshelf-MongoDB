@@ -1,1 +1,0 @@
-Document –Oriented Database, MongoDB 
